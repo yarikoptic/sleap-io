@@ -13,7 +13,7 @@ on:
   push:
     branches:
       - main
-      - zinefer/allow-manual-ci
+      - zinefer/pims-video-backend
     paths:
       - "sleap_io/**"
       - "tests/**"
